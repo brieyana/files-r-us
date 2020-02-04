@@ -1,4 +1,4 @@
-# student-files
+# files-r-us
 This program will read in data from a file into three parallel arrays, containing a student ID, major, and grade point average.
 
 ## Table of Contents
