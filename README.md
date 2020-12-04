@@ -1,5 +1,5 @@
 # files-r-us
-This program is one of my first actual projects! Tt deals with parallel arrays, file handling, and logic flow in order to have an effiecient student database that stores files with information such as classifications, majors, and GPAs. Users are able to modify their files as well as access them through the submenus.
+This program is one of my first actual projects! It deals with parallel arrays, file handling, and logic flow in order to have an effiecient student database that stores files with information such as classifications, majors, and GPAs. Users are able to modify their files as well as access them through the submenus.
 
 ## Table of Contents
 * General Info
